@@ -1,2 +1,24 @@
-# taskPlayer
-check it out --> http://player-k.s3-website.eu-central-1.amazonaws.com/
+# widget
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
